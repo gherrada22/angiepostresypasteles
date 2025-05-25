@@ -91,7 +91,7 @@ const SocialFeed = () => {
           className="flex justify-center gap-6 mb-12"
         >
           <motion.a
-            href="https://instagram.com"
+            href="https://www.instagram.com/tortasypostresangie/"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ scale: 1.1 }}
@@ -102,7 +102,7 @@ const SocialFeed = () => {
             <span>Instagram</span>
           </motion.a>
           <motion.a
-            href="https://tiktok.com"
+            href="https://www.tiktok.com/@agripina_rosales?lang=es-419&is_from_webapp=1&sender_device=mobile&sender_web_id=7508262262949103110"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ scale: 1.1 }}
