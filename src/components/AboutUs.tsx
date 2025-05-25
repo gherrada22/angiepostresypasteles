@@ -62,7 +62,7 @@ const AboutUs = () => {
               className="relative h-[500px] w-full"
             >
               <img
-                src="/logo.png"
+                src="https://images.pexels.com/photos/3184431/pexels-photo-3184431.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
                 alt="Angie Tortas y Postres Logo"
                 className="absolute inset-0 w-full h-full object-contain p-12"
               />
