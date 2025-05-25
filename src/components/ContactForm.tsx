@@ -87,7 +87,7 @@ const ContactForm = () => {
                   </div>
                   <div>
                     <h4 className="font-medium text-lg">Teléfono</h4>
-                    <p className="opacity-90">+123 456 7890</p>
+                    <p className="opacity-90">+51 910 799 959</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-4">
